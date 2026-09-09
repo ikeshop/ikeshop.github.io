@@ -199,7 +199,13 @@ main {
   display: block;
   margin-bottom: 4px;
 }
-
+/* Shop-picks section on guide pages */
+.shop-picks {
+  margin-top: var(--space-5);
+}
+.shop-picks .disclosure-note {
+  margin-top: var(--space-2);
+}
 /* CTA button */
 .btn {
   display: inline-block;
